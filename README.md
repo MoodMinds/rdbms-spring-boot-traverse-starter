@@ -22,7 +22,7 @@ Artifacts can be found on [Maven Central](https://search.maven.org/) after publi
 
 ## Building from Source
 
-You may need to build from source to use **RDBMS Spring Boot Traversable Starter** (until it is in Maven Central) with Maven and JDK 9 at least.
+You may need to build from source to use **RDBMS Spring Boot Traverse Starter** (until it is in Maven Central) with Maven and JDK 9 at least.
 
 ## License
 This project is going to be released under version 2.0 of the [Apache License][l].
