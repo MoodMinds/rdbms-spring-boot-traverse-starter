@@ -19,6 +19,13 @@
 
     <dependencies>
         <dependency>
+            <groupId>org.moodminds.routes.spring.boot</groupId>
+            <artifactId>routes-spring-boot-traverse-starter</artifactId>
+            <version>0.1</version>
+            <scope>runtime</scope>
+        </dependency>
+
+        <dependency>
             <groupId>org.moodminds.rdbms.spring.boot</groupId>
             <artifactId>rdbms-spring-boot</artifactId>
             <version>0.1</version>
