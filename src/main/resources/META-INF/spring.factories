@@ -1,3 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
   org.moodminds.rdbms.spring.boot.config.RdbmsSettingAutoConfiguration,\
+  org.moodminds.rdbms.spring.boot.config.RdbmsTraverseSourceAutoConfiguration,\
   org.moodminds.rdbms.spring.boot.config.RdbmsTraverseRoutesAutoConfiguration
